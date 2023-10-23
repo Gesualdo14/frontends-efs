@@ -1,0 +1,7 @@
+.sale {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid #ccc;
+}
